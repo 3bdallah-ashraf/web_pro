@@ -1,0 +1,23 @@
+.hero {
+    background: linear-gradient(to bottom, #937a52, #870a22);
+    color: #fff;
+    padding: 10px 24px;
+    font-family: "Inter",sans-serif;
+    border-radius: 18px;
+    text-align: center;
+}
+.container {
+    background: linear-gradient(to bottom, #3D0E0D, #E82020);
+    font-size:34px;
+    border-radius: 18px;
+    padding: 10px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+}
+.blackpad {
+    background-color: #000000;
+    padding: 7px 6px;
+    border-radius: 18px;
+}
